@@ -1,0 +1,14 @@
+{
+    "tarefas": [
+        {
+            "id": 1,
+            "decricao": "Cortar a grama",
+            "finalizada": false
+         },
+         {
+             "id": 2,
+             "decricao": "Limpar casa",
+             "finalizada": false
+         }
+    ]
+}
